@@ -2,6 +2,10 @@
 
 Created for B27WE's first Hackathon event in Zen class. Created an app to fetch by using a login/username a github user's repo information and display them as specified below. As an additional feature have added input field to enter other github user's login/username to display their list of repositories.
 
+
+[Github Repo](https://github.com/eunicedhivya/Github-API-Repos-Application)
+[Deployed Link](https://focused-lamport-476711.netlify.app/)
+
 ## Task Name : Github API Repos Application (Specifications Below)
 
 Implement the Github API using async/await with fetch.
