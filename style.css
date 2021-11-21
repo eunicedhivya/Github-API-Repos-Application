@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aliceblue;
+}
+.jumbotron{
+   background-color: transparent !important;
+   margin-bottom: 0px;
+}
+.jumbotron h1{
+    text-transform: uppercase;
+}
+.jumbotron p{
+    font-size: 16px;
+}
+.jumbotron button{
+    padding: 2px 6px !important;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.jumbotron input{
+    width: 100%;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.card{
+    margin-bottom: 20px;
+    /* border: 1px solid #ccc;
+    border-radius: 10px;
+    
+    padding: 20px 20px 10px 20px;
+    height: 150px;
+    background-color: #fff; */
+}
+
+.card h3{
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+.card a{
+    padding: 2px 6px !important;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.icon-list {
+    list-style: none;
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+.icon-list li{
+    display: inline-block;
+    margin-right: 10px;
+    color: #666;
+}
+.icon-list img, .card-title img {
+    width: 22px;
+    border-radius: 50%;
+}
